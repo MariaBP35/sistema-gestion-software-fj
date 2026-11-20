@@ -1,0 +1,12 @@
+2026-11-17 22:24:15,019 - ERROR - Intento de registrar correo inv·lido: correosinarroba.com
+2026-11-17 22:24:15,020 - INFO - Reserva RES-1001 confirmada con Èxito.
+2026-11-17 22:24:15,020 - ERROR - Fallo al confirmar reserva RES-1002: La duraciÛn de la reserva no es v·lida.
+2026-11-17 22:24:15,021 - ERROR - Error calculando costo en Alquiler de Equipo: Las horas de alquiler deben ser mayores a cero.
+2026-11-17 22:24:15,021 - INFO - Reserva RES-1001 cancelada.
+2026-11-19 21:36:14,234 - INFO - Cliente registrado: Cliente [ID: C01] - Nombre: Mar√≠a Blanco, Correo: maria.blanco@unad.edu.co, Tel√©fono: 3506271896
+2026-11-19 21:36:14,235 - ERROR - Intento de registrar correo inv√°lido: 'carlosruiz.correo.com'
+2026-11-19 21:36:14,236 - INFO - Reserva RES-1001 confirmada para Mar√≠a Blanco | Costo: $85680.00.
+2026-11-19 21:36:14,237 - ERROR - Error al confirmar reserva RES-1002: La duraci√≥n de la reserva debe ser mayor a cero.
+2026-11-19 21:36:14,237 - ERROR - Error al calcular costo en AsesoriaEspecializada (S03): El nivel de complejidad debe ser 1, 2 o 3.
+2026-11-19 21:36:14,237 - INFO - Reserva RES-1001 cancelada por solicitud.
+2026-11-19 21:36:14,237 - INFO - Cliente registrado: Cliente [ID: C03] - Nombre: Sof√≠a Mendoza, Correo: sofia.mendoza@correo.com, Tel√©fono: 3159876543
